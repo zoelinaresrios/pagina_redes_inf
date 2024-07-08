@@ -1,0 +1,13 @@
+body{
+    color: black;
+    background-color: blueviolet;
+    text-align: center;
+
+}
+li{
+background-color: antiquewhite;
+color: aqua;
+font-variant: normal;
+text-decoration-color: aquamarine;
+top: auto;
+}
