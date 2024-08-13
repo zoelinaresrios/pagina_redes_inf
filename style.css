@@ -66,3 +66,8 @@ ul {
 h1{
     text-align: center;
 }
+
+div{
+    display: block;
+    unicode-bidi: isolate;
+}
